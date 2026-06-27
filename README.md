@@ -1,6 +1,7 @@
 # 🚀 AmrzLabs
 
-AmrzLabs  
+<img width="562" height="171" alt="لقطة شاشة 2026-06-28 021749" src="https://github.com/user-attachments/assets/25146ec6-9fd5-4157-899f-b0069a0e7962" />
+
 Arabic Made Resources Zone Laboratories in a mission to make a difference in Arabic software.
 
 We build experimental systems, new interaction models, and software products shaped through continuous exploration and iteration.
